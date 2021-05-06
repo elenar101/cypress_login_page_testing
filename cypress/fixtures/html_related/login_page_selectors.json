@@ -1,0 +1,14 @@
+{
+  "page_name": "#content > div:nth-child(1)",
+  "user_id_text": "#login-form > table > tbody > tr:nth-child(1)",
+  "user_id_input": "#login-user",
+  "password_text": "#login-form > table > tbody > tr:nth-child(3)",
+  "password_input": "#login-password",
+  "login_button": "#login-submit",
+  "help_button": "#loginbtn > span > a",
+  "terms_and_conditions_link": "#footer-top > div > ul > li:nth-child(1) > a",
+  "terms_of_use_link": "#footer-top > div > ul > li:nth-child(2) > a",
+  "accessibility_policy_link": "#footer-top > div > ul > li:nth-child(3) > a",
+  "privacy_link": "#footer-top > div > ul > li:nth-child(4) > a",
+  "error_message": "#loginErrorMessageDiv"
+}
